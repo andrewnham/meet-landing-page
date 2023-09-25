@@ -205,12 +205,13 @@ h1 {
     margin-bottom: 60px;
 }
 
-h2 {
+.section-2 h2 {
     width: 80%;
     font-weight: 900;
     font-size: 4rem;
     line-height: 4.4rem;
     color: #28283d;
+    margin-top: 0;
 }
 
 h3 { 
